@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     fontFamily: {
       'sans': ['Inter', 'ui-sans-serif', 'system-ui', 'sans-serif'],
-      'serif': ['ui-serif', 'serif'],
+      'serif': ['Kalam', 'ui-serif', 'serif'],
       'mono': ['IBM Plex Mono', 'ui-monospace', 'monospace']
     },
     extend: {
